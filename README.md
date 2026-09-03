@@ -1,5 +1,5 @@
 <h1>
-  <img src="HR_Leave_Account_Management_System/frontend/public/Irctc_tourism_light.png" alt="IRCTC Logo" width="60">
+  <img src="HR_Leave_Account_Management_System/images/Irctc_tourism_light.png" alt="IRCTC Logo" width="60">
    IRCTC Enterprise Web Solutions
 </h1>
 
